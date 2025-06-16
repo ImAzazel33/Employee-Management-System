@@ -1,0 +1,30 @@
+# Virtual Environments
+env/
+venv/
+Lib/
+Scripts/
+include/
+bin/
+.Python/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+
+# Local config / DB files (optional)
+*.db
+config.json
+
+# Streamlit temp files
+temp_uploaded_file.*
